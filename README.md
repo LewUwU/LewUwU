@@ -3,6 +3,6 @@
 I'm just a java developer.
 
 - 🔭 Developer of EvarSpigot
-- 🔭 Developer of MadKaos
+- 🔭 Developer at MadKaos
 
 [![LewUwU GitHub stats](https://github-readme-stats.vercel.app/api?username=lewuwu)](https://github.com/LewUwU)
